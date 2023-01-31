@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  postgres-operator:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2023-01-31T14:30:44.214035988Z"
+    description: A Helm chart for postgres-operator
+    digest: 5d649652dbb686416dd6121fa847bc263359dd45f833796dabf4a7bb383dcac0
+    name: postgres-operator
+    type: application
+    urls:
+    - https://github.com/strediecosmin/helm-chart-test/releases/download/postgres-operator-1.0.0/postgres-operator-1.0.0.tgz
+    version: 1.0.0
+generated: "2023-01-31T14:30:44.214040189Z"
