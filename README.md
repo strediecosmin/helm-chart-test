@@ -21,3 +21,6 @@ To install the postgres-operator chart:
 To uninstall the chart:
 
     helm delete my-postgres-operator
+
+
+    
