@@ -14,6 +14,7 @@
 - [ ] Add the necessary reviewers
 
 **Infrastructure Changes**
+
 - [ ] Kafka topics were created.
 - [ ] OpenFGA permissions added
 - [ ] Secrets created/changed
